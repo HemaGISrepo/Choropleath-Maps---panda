@@ -1,0 +1,3 @@
+# Number of crimes in each police district
+plot_dict = crimes.DISTRICT.value_counts()
+plot_dict.head()
